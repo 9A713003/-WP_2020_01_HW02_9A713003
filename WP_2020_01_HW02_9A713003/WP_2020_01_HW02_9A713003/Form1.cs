@@ -32,6 +32,20 @@ namespace WP_2020_01_HW02_9A713003
                 richTextBox1.Text = $"黑桃{ msg}" ;
             }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
+
+        private void Form1_Shown(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+
+        }
+    }
     }
 
